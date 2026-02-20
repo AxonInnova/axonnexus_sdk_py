@@ -372,14 +372,14 @@ with AxonNexusClient(api_key=api_key) as client:
 Join our Discord community to get help, share ideas, and stay updated:
 
 - 💬 **Discord Community**: [https://dsc.gg/axoninnova](https://dsc.gg/axoninnova)
-- 🐛 **Report Issues**: [GitHub Issues](https://github.com/yourusername/axonnexus_sdk/issues)
-- 💡 **Discussions**: [GitHub Discussions](https://github.com/yourusername/axonnexus_sdk/discussions)
+- 🐛 **Report Issues**: [GitHub Issues](https://github.com/AxonInnova/axonnexus_sdk_py/issues)
+- 💡 **Discussions**: [GitHub Discussions](https://github.com/AxonInnova/axonnexus_sdk_py/discussions)
 
 ## About AxonNexus
 
 **AxonNexus** is a cutting-edge platform for building and deploying AI models with ease.
 
-**Creator/Founder**: [Atharv (Nubprogrammer)](https://github.com/Nubprogrammer)
+**Creator/Founder**: [Atharv (Nubprogrammer)](https://github.com/Nub-programmer)
 
 ---
 
@@ -421,4 +421,4 @@ MIT License - See LICENSE file for details
 
 ---
 
-Made with ❤️ by the AxonNexus team
+Made with ❤️ by the AxonInnova Team
