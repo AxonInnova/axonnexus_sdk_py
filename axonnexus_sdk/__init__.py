@@ -9,7 +9,7 @@ Example:
     >>> client = AxonNexusClient(api_key="your-api-key")
     >>> response = client.chat(message="Hello!")
     >>> print(response)
-    >>> client.close()
+    >>> client.close() 
 
 Or with context manager:
     >>> with AxonNexusClient(api_key="your-api-key") as client:
